@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Addy's Awesome Scene.unity
+- path: Assets/Andrew's Unexistent Scene.unity
   isLoaded: 1
   isActive: 1
