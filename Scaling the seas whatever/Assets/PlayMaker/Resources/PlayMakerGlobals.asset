@@ -33,3 +33,4 @@ MonoBehaviour:
   events:
   - scale up
   - scale down
+  - scale normal
