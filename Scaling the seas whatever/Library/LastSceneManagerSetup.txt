@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Niall's world building.unity
+- path: Assets/Matt Test.unity
   isLoaded: 1
   isActive: 1
