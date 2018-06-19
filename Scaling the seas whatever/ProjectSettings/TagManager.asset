@@ -5,6 +5,11 @@ TagManager:
   serializedVersion: 2
   tags:
   - VR Controller
+  - Fish Hook
+  - Mouth
+  - Selector
+  - Approach Trigger
+  - Fist
   layers:
   - Default
   - TransparentFX
